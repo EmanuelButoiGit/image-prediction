@@ -1,0 +1,28 @@
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\Image Prediction\Image Prediction\bin\Debug\Image Prediction.exe.config
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\Image Prediction\Image Prediction\bin\Debug\Image Prediction.exe
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\Image Prediction\Image Prediction\bin\Debug\Image Prediction.pdb
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\Image Prediction\Image Prediction\obj\Debug\Image_Prediction.Form1.resources
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\Image Prediction\Image Prediction\obj\Debug\Image_Prediction.Properties.Resources.resources
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\Image Prediction\Image Prediction\obj\Debug\Image Prediction.csproj.GenerateResource.Cache
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\Image Prediction\Image Prediction\obj\Debug\Image Prediction.exe
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\Image Prediction\Image Prediction\obj\Debug\Image Prediction.pdb
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\Image Prediction\Image Prediction\obj\Debug\Image Prediction.csprojResolveAssemblyReference.cache
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\Image Prediction\Image Prediction\Image Prediction\bin\Debug\Image Prediction.exe.config
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\Image Prediction\Image Prediction\Image Prediction\obj\Debug\Image Prediction.exe
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\Image Prediction\Image Prediction\Image Prediction\obj\Debug\Image Prediction.pdb
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\Image Prediction\Image Prediction\Image Prediction\bin\Debug\Image Prediction.exe
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\Image Prediction\Image Prediction\Image Prediction\bin\Debug\Image Prediction.pdb
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\Image Prediction\Image Prediction\Image Prediction\obj\Debug\Image Prediction.csprojResolveAssemblyReference.cache
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\Image Prediction\Image Prediction\Image Prediction\obj\Debug\Image_Prediction.Form1.resources
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\Image Prediction\Image Prediction\Image Prediction\obj\Debug\Image_Prediction.Properties.Resources.resources
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\Image Prediction\Image Prediction\Image Prediction\obj\Debug\Image Prediction.csproj.GenerateResource.Cache
+D:\Proiecte\Projects\Image Prediction\Image Prediction\Image Prediction\bin\Debug\Image Prediction.exe.config
+D:\Proiecte\Projects\Image Prediction\Image Prediction\Image Prediction\bin\Debug\Image Prediction.exe
+D:\Proiecte\Projects\Image Prediction\Image Prediction\Image Prediction\bin\Debug\Image Prediction.pdb
+D:\Proiecte\Projects\Image Prediction\Image Prediction\Image Prediction\obj\Debug\Image Prediction.csprojAssemblyReference.cache
+D:\Proiecte\Projects\Image Prediction\Image Prediction\Image Prediction\obj\Debug\Image_Prediction.Form1.resources
+D:\Proiecte\Projects\Image Prediction\Image Prediction\Image Prediction\obj\Debug\Image_Prediction.Properties.Resources.resources
+D:\Proiecte\Projects\Image Prediction\Image Prediction\Image Prediction\obj\Debug\Image Prediction.csproj.GenerateResource.cache
+D:\Proiecte\Projects\Image Prediction\Image Prediction\Image Prediction\obj\Debug\Image Prediction.csproj.CoreCompileInputs.cache
+D:\Proiecte\Projects\Image Prediction\Image Prediction\Image Prediction\obj\Debug\Image Prediction.exe
+D:\Proiecte\Projects\Image Prediction\Image Prediction\Image Prediction\obj\Debug\Image Prediction.pdb
